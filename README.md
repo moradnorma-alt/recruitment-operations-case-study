@@ -83,3 +83,28 @@ poor recruiter performance.
 A future version could add a simple dashboard or a spreadsheet report
 that calculates stage conversion, response rate, and time in stage from
 a larger anonymised dataset.
+
+## Initial Analysis of the Sample Data
+
+**Note:** This dataset contains eight fictional records for demonstration purposes only.
+
+### Observed metrics
+
+- Total records: 8
+- Contact response rate: 6/8 (75%)
+- Qualification rate: 4/8 (50%)
+- Presentation rate: 2/8 (25%)
+- Activation rate: 1/8 (12.5%)
+
+### Potential bottlenecks to investigate
+
+1. **Contact and response:** Two records have no recorded response. Review follow-up timing and contact data quality.
+2. **Qualification to presentation:** Four records are qualified, but only two are presented. Review the handoff process and stage definitions.
+3. **Presentation to activation:** One of two presented records is activated. More data is needed before drawing conclusions.
+4. **Data completeness:** Two records are missing complete data. Improving required-field completion could make reporting more reliable.
+
+### Proposed next step
+
+Collect a larger dataset with consistent timestamps, stage definitions, and outcome reasons. Compare conversion rates and time in each stage, then test a small process improvement.
+
+These observations are illustrative and should not be treated as real business results.
