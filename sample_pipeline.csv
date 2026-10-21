@@ -1,0 +1,9 @@
+record_id,source,stage,contacted,responded,screened,qualified,presented,activated,days_in_current_stage,data_complete
+S001,Professional network,Contacted,Yes,Yes,No,No,No,No,2,Yes
+S002,Referral,Qualified,Yes,Yes,Yes,Yes,No,No,1,Yes
+S003,Community event,Screened,Yes,No,Yes,No,No,No,4,No
+S004,Professional network,Presented,Yes,Yes,Yes,Yes,Yes,No,3,Yes
+S005,Referral,Activated,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes
+S006,Community event,Contacted,Yes,No,No,No,No,No,5,Yes
+S007,Professional network,Screened,Yes,Yes,Yes,No,No,No,2,Yes
+S008,Referral,Qualified,Yes,Yes,Yes,Yes,No,No,2,No
